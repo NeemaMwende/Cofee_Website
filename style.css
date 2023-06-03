@@ -4,8 +4,9 @@
   height: 600px;
   border: 1px solid black;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   text-align: center;
+
 }
 
 #main div {
@@ -56,4 +57,20 @@
     padding: 70px;
     border: solid;
     text-align: left;
+}
+.footer
+{
+  line-height: 30px;
+  
+}
+img 
+{
+  width: 500px;
+  height: 500px;
+  padding: 0px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-83789.jpg);
+  
+
 }
